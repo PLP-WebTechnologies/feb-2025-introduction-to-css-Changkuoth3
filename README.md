@@ -27,3 +27,24 @@ Margins, paddings, and borders.
  - Improve readability and aesthetics.
 
 Happy Coding! 💻✨
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Profile Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="card">
+        <h1 id="main-heading">Welcome to My Profile</h1>
+        <img src="profile.jpg" alt="My Profile Picture" class="profile-pic">
+        <p>Hello! My name is BOyAkA. I'm passionate about tech, learning, and helping others.</p>
+        <p>Visit my <a href="#">portfolio</a> to learn more about my work.</p>
+    </div>
+
+</body>
+</html>
+
